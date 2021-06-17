@@ -31,11 +31,8 @@ int main()
 
     else if (num4>=num1 && num4 >= num2 && num4 >= num3 && num4 >= num5)
         printf("%d is the largest number.", num4);
-    
+        
     else
         printf("%d is the largest number.", num5);
-
-        
-
     return 0;
 }
